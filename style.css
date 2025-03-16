@@ -2,7 +2,8 @@ body {
     font-family: Arial, sans-serif;
     background: linear-gradient(to right, #74ebd5, #acb6e5);
     text-align: center;
-    padding: 50px;
+    padding: auto;
+    min-width : 100px
 }
 .container {
     background: white;
